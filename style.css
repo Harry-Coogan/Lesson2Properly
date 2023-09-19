@@ -32,3 +32,8 @@ nav ul li a{color:#000000;
 nav ul li:hover{background-color:#BF6B04;}
 
 nav ul li:hover a{color:black;}
+
+footer{background-color:#D99E30;
+      color:black;
+      text-align:center;
+      padding:3px;}
