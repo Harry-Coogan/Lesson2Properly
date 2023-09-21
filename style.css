@@ -7,13 +7,13 @@ orange #BF6B04
 */
 
 
-.sand{background-color:#D99E30;
+.sand{background-color:#f1dcb5;
       padding:50px;}
-.orange{background-color:#BF6B04;
+.orange{background-color:#fff6eb;
        padding:50px;}
 
-nav{background-color:#D99E30;
-   border:1px solid #D99E30
+nav{background-color:#:#fff6eb;
+   border:1px solid #fff6eb
    color:#000000;
    display:block;
    overflow:hidden;
@@ -29,11 +29,11 @@ nav ul li a{color:#000000;
            text-decoration:none;
            padding:10px;}
 
-nav ul li:hover{background-color:#BF6B04;}
+nav ul li:hover{background-color:#f1dcb5;}
 
 nav ul li:hover a{color:black;}
 
-footer{background-color:#D99E30;
+footer{background-color:#fff6eb;
       color:black;
       text-align:center;
       padding:3px;}
